@@ -1,4 +1,4 @@
-<h1 align="center">Real-time Audio Spectrum Visualizer</h1>
+<h1 align="center">Audio Spectrum Visualizer – Music Player</h1>
 <div align="center">
   <img src="img/screen.png" width="600" >
   <h4 align="center">
@@ -7,9 +7,6 @@
 </div>
 
 ---
-
-
-# Audio Spectrum Visualizer – Music Player
 
 A desktop **music player with a real-time audio spectrum visualizer**.
 The project focuses on combining audio playback with a clean interface and live visual feedback based on the currently playing sound.
