@@ -28,7 +28,7 @@ The project focuses on combining audio playback with a clean interface and live 
 ## Interface Overview
 
 - **Left panel**: library and file navigation  
-- **Top area**: parameters, equalizer access, waveform  
+- **Top area**: languages, parameters, equalizer access, waveform  
 - **Center panel**: real-time spectrum analyzer  
 - **Bottom bar**: playback controls, time, volume, speed  
 
