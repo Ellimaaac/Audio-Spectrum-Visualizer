@@ -19,6 +19,11 @@
   <a href="#audio">Audio</a>
   <span> | </span>
   <a href="#spectrum">Spectrum</a>
+  <span> | </span>
+  <a href="#spectrum">FX</a>
+  <span> | </span>
+  <a href="#spectrum">Equalizer</a>
+  <span> | </span>
 </h4>
 
 
