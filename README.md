@@ -25,9 +25,14 @@ The project focuses on combining audio playback with a clean interface and live 
 ## Interface Overview
 
 - **Left panel**: library and file navigation  
-- **Top area**: languages, color themes, settings, equalizer access, waveform  
+- **Top area**: color themes, settings, equalizer access, waveform  
 - **Center panel**: real-time spectrum analyzer  
 - **Bottom bar**: playback controls, time, volume, speed  
+
+
+### Equalizer
+
+### Settings
 
 The spectrum reacts live to the currently playing audio.
 
