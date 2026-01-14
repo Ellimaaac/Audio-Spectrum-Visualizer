@@ -107,7 +107,9 @@ Configure how the application behaves on launch:
 - **Reset** restores all settings to their default values.
 - Changes can be confirmed with **OK** or discarded with **Cancel**.
 
+## FX 
 
+## Equalizer
 
 The spectrum reacts live to the currently playing audio.
 
