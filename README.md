@@ -29,6 +29,8 @@
 A desktop **music player with a real-time audio spectrum visualizer**.
 The project focuses on combining audio playback with a clean interface and live visual feedback based on the currently playing sound.
 
+The spectrum reacts live to the currently playing audio.
+
 ## Features
 
 - Play local audio files (WAV, and others depending on backend)
@@ -108,10 +110,11 @@ Configure how the application behaves on launch:
 - Changes can be confirmed with **OK** or discarded with **Cancel**.
 
 ## FX 
+on going...
 
 ## Equalizer
+on going...
 
-The spectrum reacts live to the currently playing audio.
 
 
 
