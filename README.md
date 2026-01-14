@@ -8,6 +8,24 @@
 
 ---
 
+
+<h4 align="center">
+  <a href="#features">Features</a>
+  <span> | </span>
+  <a href="#interface-overview">Interface</a>
+  <span> | </span>
+  <a href="#settings">Settings</a>
+  <span> | </span>
+  <a href="#audio">Audio</a>
+  <span> | </span>
+  <a href="#spectrum">Spectrum</a>
+</h4>
+
+
+
+---
+
+
 A desktop **music player with a real-time audio spectrum visualizer**.
 The project focuses on combining audio playback with a clean interface and live visual feedback based on the currently playing sound.
 
