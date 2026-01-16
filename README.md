@@ -2,7 +2,6 @@
 <div align="center">
   <img src="img/screen.png" width="600" >
   <h4 align="center">
-    inspired by <a href="https://github.com/mozhewen/spectrum">Mozhewen's spectrum</a>
   </h4>
 </div>
 
@@ -25,6 +24,8 @@
   <a href="#spectrum">Equalizer</a>
   <span> | </span>
   <a href="#os-build">OS-Build</a>
+  <span> | </span>
+  <a href="#references">References</a>
   <span> | </span>
 </h4>
 
@@ -128,5 +129,9 @@ on going...
 |---|---|
 | Windows |   |
 | Mac |     |
+
+## References
+
+  <h4>  - Inspired by <a href="https://github.com/mozhewen/spectrum">Mozhewen's spectrum</a></h4>
 
 
