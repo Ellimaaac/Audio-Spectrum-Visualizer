@@ -15,9 +15,7 @@
   <span> | </span>
   <a href="#settings">Settings</a>
   <span> | </span>
-  <a href="#audio">Audio</a>
-  <span> | </span>
-  <a href="#spectrum">Spectrum</a>
+  <a href="#audio-files-supported">Files Supported</a>
   <span> | </span>
   <a href="#spectrum">FX</a>
   <span> | </span>
@@ -116,6 +114,8 @@ Configure how the application behaves on launch:
 
 - **Reset** restores all settings to their default values.
 - Changes can be confirmed with **OK** or discarded with **Cancel**.
+
+## Audio Files Supported
 
 ## FX 
 on going...
