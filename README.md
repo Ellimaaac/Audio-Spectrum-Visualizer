@@ -144,7 +144,7 @@ A built-in 10-band graphic equalizer.
 
 | OS | Download |
 |---|---|
-| Windows |   |
+| Windows 10 or above |   |
 | Mac |     |
 
 ## References
