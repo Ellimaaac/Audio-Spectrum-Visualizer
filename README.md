@@ -116,12 +116,29 @@ Configure how the application behaves on launch:
 - Changes can be confirmed with **OK** or discarded with **Cancel**.
 
 ## Audio Files Supported
+- WAV (PCM / float)
+- FLAC
+- OGG / Vorbis
+- AIFF / AIF
+- MP3 (backend dependent)
+
+Both mono and stereo files are supported.
+Sample rates are handled automatically or can be overridden in settings.
 
 ## FX 
+- Off – No processing
+- Reverb – Lightweight spatial reverb
+- Echo – Delay with feedback
+- Chorus – Stereo widening modulation
+- Flanger – Short modulated delay
+- Tremolo – Amplitude modulation
+- Overdrive – Soft saturation
+- Bitcrusher – Lo-fi digital distortion
+
 on going...
 
 ## Equalizer
-on going...
+A built-in 10-band graphic equalizer.
 
 ## OS-Build
 
