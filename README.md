@@ -1,6 +1,6 @@
 <h1 align="center">Audio Spectrum Visualizer – Music Player</h1>
 <div align="center">
-  <img src="img/screen.png" width="600" >
+  <img src="img/screens.png" width="600" >
   <h4 align="center">
   </h4>
 </div>
