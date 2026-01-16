@@ -24,6 +24,8 @@
   <span> | </span>
   <a href="#spectrum">Equalizer</a>
   <span> | </span>
+  <a href="#features">OS-Build</a>
+  <span> | </span>
 </h4>
 
 
@@ -120,6 +122,11 @@ on going...
 ## Equalizer
 on going...
 
+## OS-Build
 
+| OS | Download |
+|---|---|
+| Windows |   |
+| Mac |     |
 
 
