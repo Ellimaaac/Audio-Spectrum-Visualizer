@@ -24,7 +24,7 @@
   <span> | </span>
   <a href="#spectrum">Equalizer</a>
   <span> | </span>
-  <a href="#features">OS-Build</a>
+  <a href="#os-build">OS-Build</a>
   <span> | </span>
 </h4>
 
