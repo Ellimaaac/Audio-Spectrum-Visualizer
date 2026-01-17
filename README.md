@@ -125,6 +125,8 @@ Configure how the application behaves on launch:
 Both mono and stereo files are supported.
 Sample rates are handled automatically or can be overridden in settings.
 
+Others coming soon...
+
 ## FX 
 - Off – No processing
 - Reverb – Lightweight spatial reverb
