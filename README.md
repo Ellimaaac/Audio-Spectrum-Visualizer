@@ -149,6 +149,6 @@ A built-in 10-band graphic equalizer.
 
 ## References
 
-  <h4>  - Inspired by <a href="https://github.com/mozhewen/spectrum">Mozhewen's spectrum</a></h4>
+  <h4>  - Inspired by <a href="https://github.com/mozhewen/spectrum">Mozhewen's spectrum</a> and the monotony of Windows Media Player.</h4>
 
 
