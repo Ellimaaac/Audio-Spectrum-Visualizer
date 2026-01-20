@@ -21,6 +21,8 @@
   <span> | </span>
   <a href="#spectrum">Equalizer</a>
   <span> | </span>
+  <a href="#Keyboard-shortcuts">Shortcuts</a>
+  <span> | </span>
   <a href="#os-build">OS-Build</a>
   <span> | </span>
   <a href="#references">References</a>
@@ -144,6 +146,15 @@ Sample rates are handled automatically or can be overridden in settings.
 
 ## Equalizer
 A built-in 10-band graphic equalizer.
+
+## Keyboard shortcuts
+
+| Keycaps | Function |
+|---|---|
+| Space bar |  play?pause the music |
+| F |  On/Off Full screen   |
+| Tab |  Open/Close the music menu on the left   |
+
 
 ## OS-Build
 
