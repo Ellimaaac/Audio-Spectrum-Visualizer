@@ -170,4 +170,4 @@ coming soon...
   <h4>  - Inspired by <a href="https://github.com/mozhewen/spectrum">Mozhewen's spectrum</a> and the monotony of Windows Media Player.</h4>
 
 ## Demo
-[First Demo](vid/version1.0.41) (coming soon)
+[First Demo](vid/version1) (coming soon)
