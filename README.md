@@ -24,8 +24,6 @@
   <span> | </span>
   <a href="#os-build">OS-Build</a>
   <span> | </span>
-  <a href="#os-build">User manual</a>
-  <span> | </span>
   <a href="#demo">Demo</a>
   <span> | </span>
   <a href="#references">References</a>
@@ -153,7 +151,6 @@ A built-in 10-band graphic equalizer.
 | Space bar |  play?pause the music |
 | F |  On/Off Full screen   |
 | Tab |  Open/Close the music menu on the left   |
-
 
 ## OS-Build
 
