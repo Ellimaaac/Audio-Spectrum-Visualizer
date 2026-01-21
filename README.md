@@ -7,7 +7,6 @@
 
 ---
 
-
 <h4 align="center">
   <a href="#features">Features</a>
   <span> | </span>
@@ -25,13 +24,13 @@
   <span> | </span>
   <a href="#os-build">OS-Build</a>
   <span> | </span>
+  <a href="#os-build">User manual</a>
+  <span> | </span>
+  <a href="#demo">Demo</a>
+  <span> | </span>
   <a href="#references">References</a>
   <span> | </span>
-   <a href="#demo">Demo</a>
-  <span> | </span>
 </h4>
-
-
 
 ---
 
@@ -165,9 +164,11 @@ A built-in 10-band graphic equalizer.
 
 coming soon...
 
+## Demo
+[First Demo](vid/version1) (coming soon)
+
 ## References
 
   <h4>  - Inspired by <a href="https://github.com/mozhewen/spectrum">Mozhewen's spectrum</a> and the monotony of Windows Media Player.</h4>
 
-## Demo
-[First Demo](vid/version1) (coming soon)
+
