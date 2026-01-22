@@ -156,7 +156,7 @@ A built-in 10-band graphic equalizer.
 
 | OS | Download |
 |---|---|
-| Windows 10 or above |   |
+| Windows 10 or above | [Github Release](https://github.com/Ellimaaac/Audio-Spectrum-Visualizer/releases/tag/Win10%2B)  |
 | Mac |     |
 
 coming soon...
